@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.empower-background {
+    background-color: #225db0;
+    
+    background-size:cover;
+
+}
+.Daveed{
+    text-align:center;
+    background-color:aquamarine;
+    border-radius:5px;
+    font-family:'Times New Roman', Times, serif;
+    border-width:0px;
+    color:darkslateblue;
+    text-decoration:underline;
+    
+}
+.daveed{
+    text-align:center;
+    
+    padding-left:40px;
+    padding-right:40px;
+
+}
+
+.heading_empower {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 25px;
+    padding-left: 17px;
+    padding-top: 17px;
+}
+
+.para_empower {
+    color: #ffffff;
+    font-size: 15px;
+    padding-left: 17px;
+    font-family: Roboto;
+
+}
+
+.empower_tech {
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 30px;
+
+
+}
+
+.Tech_emp {
+    height: 12vh;
+    width: 13vw;
+    padding-top: 9px;
+}
+
+.Tech_list_empower {
+    margin:45px;
+    border-radius:12px;
+    padding-top:20px;
+    border-width:0px;
+}
+
+.Techi_back_to_home {
+    text-align: center;
+}
+
+.Techi_button {
+    color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #225db0;
+    
+}
+
+.powerr {
+    padding-left: 56px;
+}
